@@ -29,7 +29,7 @@ Every day, I push code related to:
 
 ---
 
-## 📈 How to Use
+## 📈 How to Use:
 You can:
 - Browse daily code in folders organized by date
 - Use the code for learning and reference
