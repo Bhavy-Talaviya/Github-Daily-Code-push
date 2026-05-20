@@ -35,10 +35,6 @@ You can:
 - Use the code for learning and reference
 - Suggest improvements via pull requests or issues
 
----
-
-## 🔗 Links
-- [GitHub Profile](https://github.com/Strike) *(replace with your actual profile link)*
 
 ---
 
