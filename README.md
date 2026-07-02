@@ -1,4 +1,4 @@
-# Strike's Daily Code Push 💻
+# Strike's Daily Code Push  💻
 
 Welcome to **Strike's Daily Code Repository**, where I practice coding every day and share my solutions, experiments, and projects.
 
