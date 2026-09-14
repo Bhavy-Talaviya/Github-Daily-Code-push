@@ -4,7 +4,7 @@ Welcome to **Strike's Daily Code Repository**, where I practice coding every day
 
 ---
 
-## 📌 About
+## 📌 About:-
 This repository contains **daily coding exercises, algorithms, and small projects**. The goal is to improve coding skills, experiment with new ideas, and share solutions with the community.
 
 - Daily commits to track progress
@@ -13,7 +13,7 @@ This repository contains **daily coding exercises, algorithms, and small project
 
 ---
 
-## 📅 Daily Code
+## 📅 Daily Code:-
 Every day, I push code related to:
 - **Algorithms & Data Structures**
 - **Problem-solving challenges**
@@ -22,7 +22,7 @@ Every day, I push code related to:
 
 ---
 
-## 🛠 Languages & Tools
+## 🛠 Languages & Tools:-
 - **Languages:** Python, JavaScript, C++, Java
 - **Tools:** Git, GitHub
 - **IDE:** VS Code, PyCharm, or any text editor
